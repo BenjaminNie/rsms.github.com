@@ -4,30 +4,18 @@ fb_comments: 3
 title: About
 ---
 
-<img src="http://farm3.staticflickr.com/2849/9337114103_c7cf9c0c0c_c.jpg" width="256" height="170" align="right">
+![MSG equation](/res/ben.jpg)
 
-My name is Rasmus Andersson. I'm a Swedish maker living in San Francisco with a passion for art and technology, who have worked with a number of different companies since the 1990s, including 
-[Facebook](http://facebook.com/design),
-[Spotify](http://www.spotify.com/),
-[Spray](http://www.spray.se/),
-[Lear Corporation](http://lear.com/) and
-[Notion](http://notion.se/).
-More information can be found through [LinkedIn](http://www.linkedin.com/in/rasmusandersson).
+My name is Benjamin Nie and the beautiful city of Vancouver is where I call home.
 
-I work for & ♥ [Dropbox](http://dropbox.com/)
+I'm a fourth year electrical and computer engineering student with a love for software, hardware, and all the magic in between. My interests include robotics, RESTful design, embedded devices, mobile apps, R-Pi/Arduino development, agile methodologies, quality software, and clean code. Simplicity is the ultimate beauty, God lies in the details, and VIM is a great friend.
 
-- [Read more about my work with Spotify &rarr;](/about/spotify/)
-- [Some of my favorite technical papers &rarr;](https://www.dropbox.com/sh/is0sy5350lr4v9j/AADQlhVSQcRw6vCNKQgGWelqa)
+On my leisure days, I prefer craft beers, sports, and outdoor adventures.
 
+Connect with me on:
+[Linkedin](https://ca.linkedin.com/in/benjaminnie),
+[Github](https://github.com/BenjaminNie),
+[Twitter](https://twitter.com/niebenjamin),
+and [Quora](https://www.quora.com/Benjamin-Nie),
 
-## Elsewhere
-
-You can find me on a variety of world wild interweb sites where my username is usually "rsms".
-
-- [Twitter](http://twitter.com/rsms) — a good way to make contact
-- [GitHub](https://github.com/rsms) — code, juicy code
-- [Instagram](http://instagram.com/rasmusfabbe/) — short stories via photo snapshots
-- [Flickr](http://www.flickr.com/photos/rsms/) — photography
-- [Facebook](http://www.facebook.com/rsms) — friends and foes
-
-### [<img src="/res/twitter.png" width="29" height="20" style="display:inline-block;vertical-align:middle"> @rsms](http://twitter.com/rsms)
+You can also contact me at ben@niebenjamin.com

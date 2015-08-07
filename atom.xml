@@ -3,25 +3,25 @@ layout: null
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Rasmus Andersson</title>
-  <link href="http://rsms.me/atom.xml" rel="self"/>
-  <link href="http://rsms.me/"/>
+  <title>Benjamin Nie</title>
+  <link href="http://niebenjamin.com/atom.xml" rel="self"/>
+  <link href="http://niebenjamin.com"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
-  <id>http://rsms.me/</id>
+  <id>www.niebenjamin.com</id>
   <author>
-    <name>Rasmus Andersson</name>
-    <email>rasmus@notion.se</email>
+    <name>Benjamin Nie</name>
+    <email>ben@niebenjamin.com</email>
   </author>
   {% for post in site.posts limit:10 %}
   <entry>
     <title>{{ post.title }}</title>
-    <link href="http://rsms.me{{ post.url }}"/>
+    <link href="www.niebenjamin.com{{ post.url }}"/>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
-    <id>http://rsms.me{{ post.id }}</id>
+    <id>http://niebenjamin.com{{ post.id }}</id>
     <content type="html">{{ post.content | xml_escape }}</content>
     <author>
-      <name>Rasmus Andersson</name>
-      <uri>http://rsms.me/about/</uri>
+      <name>Benjamin Nie</name>
+      <uri>www.niebenjamin.com</uri>
     </author>
   </entry>
   {% endfor %}
